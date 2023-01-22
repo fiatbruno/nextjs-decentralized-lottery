@@ -1,6 +1,3 @@
-// Running into issues when try to install the web3uikit
-// Dependecies are conflicting
-
 import { useMoralis } from "react-moralis"
 import { useEffect } from "react"
 
